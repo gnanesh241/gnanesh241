@@ -11,7 +11,7 @@ I've been honing my skills in UI/UX design and web development for 1 year now. W
 * ✉️  Reach out to me at [hprasathoff935@gmail.com](mailto:gnaneshoffl@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects related to Design and Front End Development.
-* See My designs in Instagram @ [MyPortfolio](https://www.instagram.com/i_design_pro/)
+* See My designs in Instagram @ [MyInstagram](https://www.instagram.com/i_design_pro/)
 
 
                     
