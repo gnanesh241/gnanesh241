@@ -1,16 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gnanesh G
+Hi, My name is Gnanesh G
 ====================================================================================================================================
 
-Ux UI Designer and Web Developer
+Ux UI Designer
 -------------------------------
 
-I've been honing my skills in UI/UX design and web development for 1 year now. While I initially delved into Figma, my true passion lies in frontend development...
+I've been honing my skills in UI/UX design for 2 years now. While I initially delved into Figma, my true passion lies in frontend development...
 
 * 🌍  I'm based in India
 * 🖥️  Explore my portfolio: [MyPortfolio](https://shorturl.at/dzAUV)
 * ✉️  Reach out to me at [gnaneshoffl@gmail.com](mailto:gnaneshoffl@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects related to Design and Front End Development.
+* 🤝  I'm open to collaborating on Projects related to Design.
 * See My designs in Instagram @ [MyInstagram](https://www.instagram.com/i_design_pro/)
 
 
